@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'jitendrawebappdemo'
           slot-name: 'dev'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CCB003ECB40F41D7A8C84E4438DC8DAD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4036AB6B6BBE42B49A1071EE03407507 }}
           package: .
